@@ -17,7 +17,7 @@ componentDidCatch(error,info) {
 }
 
 render(){
-    console.log("3");
+    //console.log("3");
     if(this.state.hasError) {
         return <h1>Oops, That's not good</h1>
     }
