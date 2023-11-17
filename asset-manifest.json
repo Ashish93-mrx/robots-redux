@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/RobotList/static/css/main.d0e4713f.css",
+    "main.js": "/RobotList/static/js/main.02b981b1.js",
+    "static/js/787.ab12092d.chunk.js": "/RobotList/static/js/787.ab12092d.chunk.js",
+    "index.html": "/RobotList/index.html",
+    "main.d0e4713f.css.map": "/RobotList/static/css/main.d0e4713f.css.map",
+    "main.02b981b1.js.map": "/RobotList/static/js/main.02b981b1.js.map",
+    "787.ab12092d.chunk.js.map": "/RobotList/static/js/787.ab12092d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d0e4713f.css",
+    "static/js/main.02b981b1.js"
+  ]
+}
